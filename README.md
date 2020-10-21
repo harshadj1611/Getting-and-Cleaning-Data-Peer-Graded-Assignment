@@ -8,13 +8,13 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 This repo contains four files:
 1.	README.md: The document you are reading now.
 2.	CodeBook.md: Describes how to use all the, variables, the data, and any transformations or work that was performed to clean up the data.
-3.	tidyset_2: Independent tidy data set with the average of each variable for each activity and each subject.
-4.	run_analysis.R: Performs the 5 steps that were mentioned in the course project instructions.
+3.	run_analysis.R: Performs the 5 steps that were mentioned in the course project instructions.
        + Merges the training and the test sets to create one data set.
        + Extracts only the measurements on the mean and standard deviation for each measurement.
        +	Uses descriptive activity names to name the activities in the data set.
        +	Appropriately labels the data set with descriptive variable names.
        + From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+4. tidyset_2: Independent tidy data set with the average of each variable for each activity and each subject.       
 
 #### Link to the description of the course project by coursera given below
 [Total description of Getting and Cleaning of Data Course Project](https://www.coursera.org/learn/data-cleaning/peer/FIZtT/getting-and-cleaning-data-course-project)
